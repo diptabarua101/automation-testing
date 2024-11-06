@@ -1,0 +1,20 @@
+{
+  "name": "selinium-webdriver",
+  "version": "1.0.0",
+  "description": "selenium webdriver practice for batch seven ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "keywords": [
+    "selenium-webdriver",
+    "xpath",
+    "locators"
+  ],
+  "author": "Dipta-barua",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "selenium-webdriver": "^4.26.0"
+  }
+}
